@@ -1,4 +1,4 @@
-.App {
+/* .App {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,7 +17,7 @@
   position: relative;
   margin: 10px;
   border: solid 10px #8b4513;
-  /* -moz-box-shadow: 5px 5px 7px #212121; */
+
   -webkit-box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
   box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
 }
@@ -100,39 +100,6 @@
 }
 
 
-/* 
-.bookshelf-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  height: 700px;
-  width: 500px;
-  background-color: #f0f0f0;
-  padding: 10px;
-  border: solid 1px black;
-  margin: 10px;
- 
-}
-
-.book {
-  display:inline-table;
-  margin: 5px;
-  border-radius: 5px;
-  border: solid #848485;
-    -moz-box-shadow: 5px 5px 7px #212121;
-    -webkit-box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
-    box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
-  text-align: center;
-  color: black;
-  font-size: 14px;
-  font-weight: bold;
-  line-height: 100px;
-  overflow: hidden;
-  writing-mode: vertical-lr;
-  border-bottom: 2px solid white;
-  margin-bottom: -2px;
-} */
 
 .red {
   background-color: #99627A;
@@ -152,4 +119,4 @@
 
 .purple {
   background-color: #4D455D;
-}
+} */
